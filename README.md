@@ -2,11 +2,6 @@
 
 Going to try to demistify this product, I'm interested in removing the top circular "I/O" PCB and its "stalk" so I can use the motor and encoder as a smart knob with software detents and limits like https://github.com/scottbez1/smartknob
 
-<p> 
-  <a href="https://www.arduino.cc/en/software"> <img src="./hardware/image/Arduino_badge.png" height="20px"></a>
-  <a href="https://lilygo.cc/products/t-knob"> <img src="https://img.shields.io/badge/Liiygo-T_Knob-blue" height="20px"></a>
-</p>
-
 ![alt text](image.png)
 ![alt text](pcb.jpeg)
 
