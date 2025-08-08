@@ -27,7 +27,7 @@ Other data is placed in the `hardware` folder
 ### 1. Folder structure:
 ~~~
 ├─3D_File : 3D model file;
-├─example : Some examples;
+├─examples : Some examples;
 ├─hardware: Schematic diagram of the board, chip data;
 ~~~
 
