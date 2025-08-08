@@ -1,6 +1,6 @@
 <h1 align = "center">T-Knob fork</h1>
 
-Going to try to demistify this product, I'm interested in removing the top circular "I/O" PCB and its "stalk" so I can use the motor and encoder as a smart knob with software detents and limits like https://github.com/scottbez1/smartknob
+Going to try to demistify the https://lilygo.cc/products/t-knob, I'm interested in removing the top circular "I/O" PCB and its "stalk" so I can use the motor and encoder as a smart knob with software detents and limits like https://github.com/scottbez1/smartknob
 
 ~~~
 Tasks
