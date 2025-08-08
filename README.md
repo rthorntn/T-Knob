@@ -2,8 +2,16 @@
 
 Going to try to demistify this product, I'm interested in removing the top circular "I/O" PCB and its "stalk" so I can use the motor and encoder as a smart knob with software detents and limits like https://github.com/scottbez1/smartknob
 
-![alt text](image.png)
+~~~
+Tasks
+- 1. : TBA
+- 2. : TBA
+- 1. : TBA
+~~~
+
 ![alt text](pcb.jpeg)
+
+![alt text](image.png)
 
 Other data is placed in the `hardware` folder
 |  Arduino IDE  |                                                          v2.2.1                                                          |
