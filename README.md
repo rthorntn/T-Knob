@@ -7,10 +7,6 @@
 
 ![alt text](image.png)
 
-## :zero: Version 🎁
-
-## :one: Product 🎁
-
 Other data is placed in the `hardware` folder
 |  Arduino IDE  |                                                          v2.2.1                                                          |
 |:-------------:|:------------------------------------------------------------------------------------------------------------------------:|
@@ -24,7 +20,7 @@ Other data is placed in the `hardware` folder
 ~~~
 ├─3D_File : 3D model file;
 ├─example : Some examples;
-├─firmare : `factory` compiled firmware;
+├─firmware : `factory` compiled firmware;
 ├─hardware: Schematic diagram of the board, chip data;
 ~~~
 
@@ -45,11 +41,11 @@ Other data is placed in the `hardware` folder
 ## :three: Quick Start 🎁
 
 1. Install [Arduino IDE](https://www.arduino.cc/en/software)
-2. Install the esp32 toolkit, open the Arduion IDE, click on `File->Perferences`, Then `https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json` paste to the position of the diagram below, then click :ok:, waiting for the toolkit download is complete;
+2. Install the esp32 toolkit, open the Arduino IDE, click on `File->Preferences`, Then `https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json` paste to the position of the diagram below, then click :ok:, waiting for the toolkit download is complete;
 
 ![](./hardware/image.png)
 
-3. Open a example using the Arduion IDE, and configure the Arduion as follows.Notice where the yellow boxes are.
+3. Open a example using the Arduino IDE, and configure the Arduino as follows.Notice where the yellow boxes are.
 
 :exclamation: :exclamation: **Note: If the `board` cannot find the ESP32C6, perform the `step 2`.** :exclamation: :exclamation:
 
