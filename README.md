@@ -12,7 +12,7 @@ Tasks
 - 2. : TBA
 - 1. : TBA
 ~~~
-
+The main PCB:
 ![alt text](pcb.jpeg)
 
 ![alt text](image.png)
