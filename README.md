@@ -28,7 +28,6 @@ Other data is placed in the `hardware` folder
 ~~~
 ├─3D_File : 3D model file;
 ├─example : Some examples;
-├─firmware : `factory` compiled firmware;
 ├─hardware: Schematic diagram of the board, chip data;
 ~~~
 
