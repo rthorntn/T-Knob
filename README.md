@@ -2,6 +2,8 @@
 
 I'm going to try to demistify the https://lilygo.cc/products/t-knob, I'm interested in removing the top circular "I/O" PCB and its "stalk" so I can use the motor and encoder as a smart knob with software detents and limits like https://github.com/scottbez1/smartknob
 
+Smartknob also uses ESP32, TMC6300 (motor driver) & MT6701 (magnetic angle encoder)...
+
 I'm not a coder so if anyone can help, please add to the Discussions.
 
 ~~~
@@ -68,7 +70,7 @@ Other data is placed in the `hardware` folder
 #define MAG_CLK 14
 #define MAG_DIO 15
 
-// MTC6300
+// TMC6300
 #define BLDC_DRV_FAULT_GPIO 2
 #define UH_PIN 6
 #define UL_PIN 5
