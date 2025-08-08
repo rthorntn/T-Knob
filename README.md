@@ -8,6 +8,7 @@ Going to try to demistify this product, I'm interested in removing the top circu
 </p>
 
 ![alt text](image.png)
+![alt text](pcb.jpeg)
 
 Other data is placed in the `hardware` folder
 |  Arduino IDE  |                                                          v2.2.1                                                          |
