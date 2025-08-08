@@ -5,21 +5,14 @@
   <a href="https://lilygo.cc/products/t-knob"> <img src="https://img.shields.io/badge/Liiygo-T_Knob-blue" height="20px"></a>
 </p>
 
-<!-- * [切换到中文版](./README_CN.md) -->
-
 ![alt text](image.png)
 
 ## :zero: Version 🎁
 
-### 1、Latest version
-
-### 2、Where to buy.
-[LilyGo Store](https://lilygo.cc/products/t-knob)
-
 ## :one: Product 🎁
 
 Other data is placed in the `hardware` folder
-|  Arduion IDE  |                                                          v2.2.1                                                          |
+|  Arduino IDE  |                                                          v2.2.1                                                          |
 |:-------------:|:------------------------------------------------------------------------------------------------------------------------:|
 |    Module     | [esp32-C6-MINI-1U](https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1_mini-1u_datasheet_en.pdf) |
 | MotorDriverIC |   [TMC6300](https://docs.sparkfun.com/SparkFun_IoT_Brushless_Motor_Driver/assets/component_documentation/TMC6300.pdf)    |
@@ -92,15 +85,6 @@ Other data is placed in the `hardware` folder
 #define BOARD_BUZZ 18
 ~~~
 
-
-## :five: Test 🎁
-
-
-
-## :six: FAQ 🎁
-
-## :seven: Schematic & 3D 🎁
-
 For more information, see the `./hardware` directory.
 
 Schematic : [T-Embed-CC1101](./hardware/T-Embed-CC1101%20V1.0%2024-07-29.pdf)
@@ -108,5 +92,3 @@ Schematic : [T-Embed-CC1101](./hardware/T-Embed-CC1101%20V1.0%2024-07-29.pdf)
 CC1101 Schematic : [CC1101](./hardware/cc1101-shield.pdf)
 
 CC1101 Pins : [CC1101 Pins](./hardware/CC1101_pin.png)
-
-3D Files : To be added ...
