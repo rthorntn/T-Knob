@@ -4,7 +4,9 @@ I'm going to try to demistify the https://lilygo.cc/products/t-knob, I'm interes
 
 Smartknob also uses ESP32, TMC6300 (motor driver) & MT6701 (magnetic angle encoder)...
 
-I'm not a coder so if anyone can help, please add to the Discussions.
+I should say, I'm not a coder.
+
+If you're interested please post in Discussions.
 
 ~~~
 Tasks
